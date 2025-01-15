@@ -1,0 +1,5 @@
+[
+{"data": [{"problem": "P2P", "result": "accepted"}, {"problem": "BIG", "result": "accepted"}, {"problem": "BIG", "result": "accepted"}, {"problem": "HJJ", "result": "accepted"}, {"problem": "LBCC08", "result": "accepted"}, {"problem": "LBCC08", "result": "accepted"}]},
+{"data": [{"problem": "SESO42", "result": "accepted"}, {"problem": "SESO41", "result": "accepted"}, {"problem": "SESO36", "result": "accepted"}, {"problem": "LINK02P09", "result": "accepted"}, {"problem": "LINK02P06", "result": "accepted"}, {"problem": "LINK02P05", "result": "accepted"}, {"problem": "LINK02P03", "result": "accepted"}, {"problem": "SESO16", "result": "accepted"}]},
+{"data": [{"problem": "PREFPRO1", "result": "accepted"}, {"problem": "BINARYSUM", "result": "accepted"}, {"problem": "SESO43", "result": "accepted"}, {"problem": "SESO27", "result": "accepted"}]}
+]

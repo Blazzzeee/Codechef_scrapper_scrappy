@@ -1,0 +1,12 @@
+[
+{"data": [{"problem": "PREP69", "result": "accepted"}, {"problem": "BFS", "result": "accepted"}, {"problem": "BFS", "result": "accepted"}, {"problem": "DSADFS", "result": "accepted"}, {"problem": "DSCPP82", "result": "accepted"}, {"problem": "DSCPP81", "result": "accepted"}, {"problem": "PREFPRO3", "result": "accepted"}, {"problem": "PREFPRO2", "result": "accepted"}, {"problem": "PREFPRO2", "result": "accepted"}]},
+{"data": [{"problem": "P2AC", "result": "accepted"}, {"problem": "P1A", "result": "accepted"}, {"problem": "P1C", "result": "accepted"}]},
+{"data": []},
+{"data": []},
+{"data": []},
+{"data": [{"problem": "INP4", "result": "accepted"}, {"problem": "INP2", "result": "accepted"}, {"problem": "INP2", "result": "accepted"}, {"problem": "INP1", "result": "accepted"}, {"problem": "INP3", "result": "accepted"}, {"problem": "INP7", "result": "accepted"}, {"problem": "INP7", "result": "accepted"}, {"problem": "VAR10", "result": "accepted"}, {"problem": "VAR9", "result": "accepted"}]},
+{"data": [{"problem": "INP5", "result": "accepted"}]},
+{"data": [{"problem": "VAR8", "result": "accepted"}, {"problem": "VAR7", "result": "accepted"}, {"problem": "VAR5", "result": "accepted"}, {"problem": "VAR4", "result": "accepted"}, {"problem": "VAR3", "result": "accepted"}, {"problem": "VAR1", "result": "accepted"}, {"problem": "VAR0", "result": "accepted"}, {"problem": "P3BC", "result": "accepted"}, {"problem": "P3AC", "result": "accepted"}, {"problem": "P2BC", "result": "accepted"}, {"problem": "P1B", "result": "accepted"}]},
+{"data": [{"problem": "DATA13", "result": "accepted"}, {"problem": "DATA12", "result": "accepted"}, {"problem": "DATA7", "result": "accepted"}, {"problem": "DATA2", "result": "accepted"}, {"problem": "DATA3", "result": "accepted"}, {"problem": "DATA1", "result": "accepted"}, {"problem": "INP6", "result": "accepted"}]},
+{"data": [{"problem": "CONF1", "result": "accepted"}, {"problem": "CONF2", "result": "accepted"}, {"problem": "CONF5", "result": "accepted"}, {"problem": "DATA8", "result": "accepted"}, {"problem": "DATA15", "result": "accepted"}, {"problem": "DATA14", "result": "accepted"}]}
+]
